@@ -1,0 +1,15 @@
+deepface
+ultralytics
+lap==0.5.13
+tensorflow==2.19.1
+tf-keras==2.19.0
+numpy==1.26.4
+protobuf==4.25.9
+packaging==23.2
+rich==13.9.4
+opencv-python
+google-generativeai
+streamlit==1.32.0
+plotly
+pillow
+python-dotenv
